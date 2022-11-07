@@ -7,8 +7,6 @@ import {
   FaMedium,
   FaTwitter,
 } from "react-icons/fa";
-import { BsFillPersonLinesFill } from "react-icons/bs";
-import { HiOutlineMail } from "react-icons/hi";
 
 export const Navbar = () => {
   const [nav, setNav] = useState(false);
