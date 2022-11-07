@@ -1,0 +1,7 @@
+export { default as profile } from './1.jpg'
+export { default as profile2 } from './2.jpg'
+export { default as profile3 } from './Img.jpg'
+export { default as pic3 } from './code.jpg'
+export { default as pic4 } from './code1.jpg'
+export { default as pic5 } from './pic5.jpg'
+export {default as pic6 } from './bs.jpg'
