@@ -9,6 +9,7 @@ import {
 } from "react-icons/fa";
 import { Link } from "react-scroll";
 import profile from "../assests/1.jpg";
+// import {SiUpwork} from "react-icons/si"
 
 export const Navbar = () => {
   const [nav, setNav] = useState(false);
@@ -101,7 +102,7 @@ export const Navbar = () => {
               className="flex justify-between  items-center  w-full text-gray-300"
               href="https://www.linkedin.com/in/zachary-ndung-u-85023a201/"
             >
-              Linkedin <FaLinkedin size={50} />
+              Linkedin <FaLinkedin size={20} />
             </a>
           </li>
           <li className="w-[160px] h-[60px] flex justify-between  items-center ml-[-100px]  hover:ml-[-10px] duration-300 bg-[#000000] rounded-lg">
@@ -110,7 +111,7 @@ export const Navbar = () => {
               href="https://medium.com/@ndunguzachary"
             >
               Medium
-              <FaMedium size={50} />
+              <FaMedium size={20} />
             </a>
           </li>
           <li className="w-[160px] h-[60px] flex justify-between  items-center ml-[-100px]  hover:ml-[-10px] duration-300 bg-[#000000] rounded-lg">
@@ -118,7 +119,7 @@ export const Navbar = () => {
               className="flex justify-between  items-center  w-full text-gray-300"
               href="https://github.com/Zackius"
             >
-              Github <FaGithub size={50} />
+              Github <FaGithub size={20} />
             </a>
           </li>
           <li className="w-[160px] h-[60px]  flex  justify-between   items-center  ml-[-100px]  hover:ml-[-10px] duration-300 bg-[#38aedd] rounded-lg">
@@ -126,9 +127,17 @@ export const Navbar = () => {
               className="flex justify-between  items-center  w-full text-gray-300"
               href="https://mobile.twitter.com/Zack_K_N"
             >
-              Twitter <FaTwitter size={50} />
+              Twitter <FaTwitter size={20} />
             </a>
           </li>
+          {/* <li className="w-[160px] h-[60px]  flex  justify-between   items-center  ml-[-100px]  hover:ml-[-10px] duration-300 bg-[#41b915] rounded-lg">
+            <a
+              className="flex justify-between  items-center  w-full text-gray-300"
+              href="https://www.upwork.com/freelancers/~011065ae8c811d4f58"
+            >
+              UpWork <SiUpwork size={20} />
+            </a>
+          </li> */}
         </ul>
       </div>
     </div>
