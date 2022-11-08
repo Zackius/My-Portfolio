@@ -9,7 +9,7 @@ import { tailwind } from '../assests'
 
 const Skills = () => {
   return (
-      <div name="skills"  className='  text-gray-300'>
+      <div name="skills"  className='  text-gray-300 bg-gradient-to-r from-white via-blue-300  to-gray-300'>
           
           <div className='max-w-[1000px]  mx-auto  p-4  flex  flex-col  justify-center  w-full  h-full'>
               <div >
