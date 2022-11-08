@@ -104,7 +104,7 @@ export const Navbar = () => {
               Linkedin <FaLinkedin size={50} />
             </a>
           </li>
-          <li className="w-[160px] h-[60px] flex justify-between  items-center ml-[-100px]  hover:ml-[-10px] duration-300 bg-[#8e878733] rounded-lg">
+          <li className="w-[160px] h-[60px] flex justify-between  items-center ml-[-100px]  hover:ml-[-10px] duration-300 bg-[#0d060633] rounded-lg">
             <a
               className="flex justify-between  items-center  w-full text-gray-300"
               href="https://medium.com/@ndunguzachary"
@@ -113,7 +113,7 @@ export const Navbar = () => {
               <FaMedium size={50} />
             </a>
           </li>
-          <li className="w-[160px] h-[60px] flex justify-between  items-center ml-[-100px]  hover:ml-[-10px] duration-300 bg-[#fff] rounded-lg">
+          <li className="w-[160px] h-[60px] flex justify-between  items-center ml-[-100px]  hover:ml-[-10px] duration-300 bg-[#0c0960] rounded-lg">
             <a
               className="flex justify-between  items-center  w-full text-gray-300"
               href="https://github.com/Zackius"
@@ -121,7 +121,7 @@ export const Navbar = () => {
               Github <FaGithub size={50} />
             </a>
           </li>
-          <li className="w-[160px] h-[60px]  flex  justify-between   items-center  ml-[-100px]  hover:ml-[-10px] duration-300 bg-[#4eefed] rounded-lg">
+          <li className="w-[160px] h-[60px]  flex  justify-between   items-center  ml-[-100px]  hover:ml-[-10px] duration-300 bg-[#084847] rounded-lg">
             <a
               className="flex justify-between  items-center  w-full text-gray-300"
               href="https://mobile.twitter.com/Zack_K_N"

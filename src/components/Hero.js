@@ -1,6 +1,6 @@
 import React from "react";
 import { HiArrowNarrowRight } from "react-icons/hi";
-import profile from "../assests/Img.jpg";
+import profile from "../assests/1.jpg";
 
 const Hero = () => {
   return (
