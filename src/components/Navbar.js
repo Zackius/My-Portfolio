@@ -96,7 +96,7 @@ export const Navbar = () => {
       {/* Social Icons */}
       <div className=" hidden  lg:flex fixed  flex-col top-[35%] left-0">
         <ul>
-          <li className="w-[160px] h-[60px] flex justify-between  items-center ml-[-100px]  hover:ml-[-10px] duration-300 bg-blue-500 rounded-lg">
+          <li className="w-[160px] h-[60px] flex justify-between  items-center ml-[-100px]  hover:ml-[-10px] duration-300 bg-blue-700 rounded-lg">
             <a
               className="flex justify-between  items-center  w-full text-gray-300"
               href="https://www.linkedin.com/in/zachary-ndung-u-85023a201/"
@@ -104,7 +104,7 @@ export const Navbar = () => {
               Linkedin <FaLinkedin size={50} />
             </a>
           </li>
-          <li className="w-[160px] h-[60px] flex justify-between  items-center ml-[-100px]  hover:ml-[-10px] duration-300 bg-[#0d060633] rounded-lg">
+          <li className="w-[160px] h-[60px] flex justify-between  items-center ml-[-100px]  hover:ml-[-10px] duration-300 bg-[#000000] rounded-lg">
             <a
               className="flex justify-between  items-center  w-full text-gray-300"
               href="https://medium.com/@ndunguzachary"
@@ -113,7 +113,7 @@ export const Navbar = () => {
               <FaMedium size={50} />
             </a>
           </li>
-          <li className="w-[160px] h-[60px] flex justify-between  items-center ml-[-100px]  hover:ml-[-10px] duration-300 bg-[#0c0960] rounded-lg">
+          <li className="w-[160px] h-[60px] flex justify-between  items-center ml-[-100px]  hover:ml-[-10px] duration-300 bg-[#000000] rounded-lg">
             <a
               className="flex justify-between  items-center  w-full text-gray-300"
               href="https://github.com/Zackius"
@@ -121,7 +121,7 @@ export const Navbar = () => {
               Github <FaGithub size={50} />
             </a>
           </li>
-          <li className="w-[160px] h-[60px]  flex  justify-between   items-center  ml-[-100px]  hover:ml-[-10px] duration-300 bg-[#084847] rounded-lg">
+          <li className="w-[160px] h-[60px]  flex  justify-between   items-center  ml-[-100px]  hover:ml-[-10px] duration-300 bg-[#38aedd] rounded-lg">
             <a
               className="flex justify-between  items-center  w-full text-gray-300"
               href="https://mobile.twitter.com/Zack_K_N"
