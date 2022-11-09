@@ -20,10 +20,6 @@ const Hero = () => {
         <h2 className="teext-4xl sm:text-7xl font-bold text-[#8892b0]">
           I 'am a Full Stack Developer{" "}
         </h2>
-        <p className="text-black py-4 max-w-[600px]">
-          I am a full-stack developer specialising in building great web
-          applications.
-        </p>
         <div>
           <button to='about'   className="text-black group  border-2 px-6  py-3  my-2 flex items-center hover:bg-blue-500 hover:border-blue-500">
             View My Work

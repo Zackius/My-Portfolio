@@ -18,13 +18,13 @@ const About = () => {
         <div className="max-w-[1000px]  w-full  grid  sm:grid-cols-2   gap-8 px-2">
           <div className="sm:text-right  text-4xl  font-bold">
             <p>
-              Hi, I am Zack, nice to see you here. Please take a look around.
+              Hi, nice to see you here. Please take a look around.
             </p>
           </div>
           <div>
             <p>
-              I am a performance-driven person with one year experience in
-              Software engineering. I am a forward-thinking individual with an
+              I am a performance-driven person with vast experience in creating
+              web applications. I am a forward-thinking individual with an
               innovative mindset and a strong conceptual thinker that embraces
               challenges with an analytical and creative approach.
             </p>
