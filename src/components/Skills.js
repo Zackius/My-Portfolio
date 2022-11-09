@@ -5,6 +5,7 @@ import { css } from '../assests'
 import { reacts } from '../assests'
 import { github } from '../assests'
 import { tailwind } from '../assests'
+import {ruby} from '../assests'
 
 
 const Skills = () => {
@@ -47,6 +48,10 @@ const Skills = () => {
                   <div className='shadow-md shadow-[#040c16] hover:scale-110  bg-[#0a192f] duration-500'>
                       <img className='w-20 mx-auto' src={github} alt='GITHUB icon' />
                       <p className='my-4 text-white'>GITHUB</p>
+                  </div>
+                  <div className='shadow-md shadow-[#040c16] hover:scale-110  bg-[#0a192f] duration-500'>
+                      <img className='w-20 mx-auto' src={ruby} alt='GITHUB icon' />
+                      <p className='my-4 text-white'>RUBY ON RAILS</p>
                   </div>
               </div>
                   
