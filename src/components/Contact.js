@@ -8,7 +8,7 @@ const Contact = () => (
       <div className=' pb-8'>
         <p className='text-4xl font-bold inline border-b-4 border-blue-700 text-[#0a192f]'> Contact</p>
         <p className='text-black  py-4'>Want to say hello or just offer some feedback?
-          Feel free to reach me at anytime.</p>
+          Feel free to reach me  anytime.</p>
         <div className='flex flex-cols-2  '>
           <AiOutlineMail size={20} />
           <p className='px-4 font-bold'> ndunguzachary24@gmail.com</p>

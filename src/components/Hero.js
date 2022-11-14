@@ -18,7 +18,7 @@ const Hero = () => {
         </h1>
 
         <h2 className="teext-4xl sm:text-7xl font-bold text-[#8892b0]">
-          I 'am a Full Stack Developer{" "}
+          I am a Full Stack Developer{" "}
         </h2>
         <div>
           <button to='about'   className="text-black group  border-2 px-6  py-3  my-2 flex items-center hover:bg-blue-500 hover:border-blue-500">
