@@ -22,27 +22,32 @@ export const Navbar = () => {
       </div>
 
       <ul className="hidden md:flex">
-        <li>
+        <li className="hover:scale-110">
           <Link to="home" smooth={true} duration={300}>
             Home
           </Link>
         </li>
-        <li>
+        <li className="hover:scale-110">
           <Link to="about" smooth={true} duration={300}>
             About
           </Link>
         </li>
-        <li>
+        <li className="hover:scale-110">
           <Link to="skills" smooth={true} duration={300}>
             Skills
           </Link>
         </li>
-        <li>
+        <li className="hover:scale-110">
           <Link to="work" smooth={true} duration={300}>
             Work
           </Link>
         </li>
-        <li>
+        <li className="hover:scale-110">
+          <Link to="/" smooth={true} duration={300}>
+            Blog
+          </Link>
+        </li>
+        <li className="hover:scale-110">
           <Link to="contact" smooth={true} duration={300}>
             Contact
           </Link>
@@ -85,13 +90,17 @@ export const Navbar = () => {
           <Link to="work" smooth={true} duration={300}>
             Work
           </Link>
+          </li>
+          <li className="py-6 text-4xl">
+          <Link to="/" smooth={true} duration={300}>
+            Blog
+          </Link>
         </li>
         <li className="py-6 text-4xl">
           <Link to="contact" smooth={true} duration={300}>
             Contact
           </Link>
-        </li>
-          
+          </li>
         </ul>
       </div>
       {/* Social Icons */}
