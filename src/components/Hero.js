@@ -17,7 +17,7 @@ const Hero = () => {
           Zacharia  Ndung'u
         </h1>
 
-        <h2 className="teext-4xl sm:text-7xl font-bold text-[#8892b0]">
+        <h2 className="text-4xl sm:text-7xl font-bold text-[#8892b0]">
           I am a Full Stack Developer{" "}
         </h2>
         <div>
