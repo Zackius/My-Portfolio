@@ -6,7 +6,7 @@ const Hero = () => {
   return (
     <div
       name="home"
-      className=" w-full  h-[900px] bg-gradient-to-r from-white via-blue-300  to-gray-300"
+      className=" w-full  h-[900px] container-div"
     >
       {/* Container  */}
       <div className="flex  flex-col  justify-center  items-center  w-full  h-full">

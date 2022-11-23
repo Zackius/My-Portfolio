@@ -14,6 +14,12 @@
     @apply cursor-pointer
   }
 }
+.container-div{
+  background-image: url(./assests/wave\ \(4\).svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
 .content-div {
   background-repeat: no-repeat;
   background-size: cover;
