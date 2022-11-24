@@ -60,7 +60,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 [Go Back to the top](#zacharia-ndung'u)
 ## Authors Info
-Slack Profile - [Albert Byrone](https://app.slack.com/client/T077KKCG6/GLRQR61NW/user_profile/UKXCHMCNP?cdn_fallback=1)
 Linked - [Zacharia Kamau](https://www.linkedin.com/in/zachary-ndung-u-85023a201/)
 [Go Back to the top](#zacharia-ndung'u)
 
