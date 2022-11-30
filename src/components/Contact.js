@@ -15,8 +15,6 @@ const Contact = () => (
         </div>
         <div className='flex flex-cols-2  '>
           <BiPhoneCall size={20} />
-
-          <p className='px-4 font-bold'> +254 716 526 170</p>
         </div>
       
       </div>
