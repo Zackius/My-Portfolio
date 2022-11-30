@@ -13,9 +13,6 @@ const Contact = () => (
           <AiOutlineMail size={20} />
           <p className='px-4 font-bold'> ndunguzachary24@gmail.com</p>
         </div>
-        <div className='flex flex-cols-2  '>
-          <BiPhoneCall size={20} />
-        </div>
       
       </div>
       <input type="text" className='bg-[#ccd6f6] py-2 p-2' placeholder='Name' name='name' />
